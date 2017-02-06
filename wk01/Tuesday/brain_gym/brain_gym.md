@@ -1,5 +1,5 @@
 ### Question One
-> 'Which door would the other guard say leads to paradise?
+> which one leads to death?
 
 ### Question Two
 > The son of the man looking at the painting
@@ -21,4 +21,4 @@
 > Hal is a dentist. An apple a day keeps the dentist away.
 
 #### Question Seven
-> She kills her sister in hopes that the man will be there. 
+> She kills her sister in hopes that the man will be there.  
